@@ -1,0 +1,9 @@
+# Escribe o pega este contenido:
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+#
