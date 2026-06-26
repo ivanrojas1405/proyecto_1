@@ -8,4 +8,4 @@ if __name__ == '__main__':
 
 # cd proyecto_1        venv\Scripts\activate      - deactivate
 #
-#
+#  ejemplo  para git .
