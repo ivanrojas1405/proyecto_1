@@ -5,6 +5,7 @@ def saludar(nombre):
 if __name__ == '__main__':
     mensaje = saludar("Estudiante")
     print(mensaje)
+    print("estoy en el otro staging")
 
 # cd proyecto_1        venv\Scripts\activate      - deactivate
 #
