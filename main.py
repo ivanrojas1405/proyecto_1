@@ -7,3 +7,5 @@ if __name__ == '__main__':
     print(mensaje)
 
 # cd proyecto_1        venv\Scripts\activate      - deactivate
+#
+#
